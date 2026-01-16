@@ -31,3 +31,4 @@ function updateUI() {
     document.getElementById("tasbih").innerText = tasbih;
     document.getElementById("goal").innerText = goal;
 }
+
